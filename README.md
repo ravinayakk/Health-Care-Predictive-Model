@@ -15,20 +15,6 @@
 
    - Overall the experience and progess during the semester while working on this project has been very insightful. Throughout the progression of this project I have learned about multiple skills and concepts about machine learning and data analytics.
 
-### Self Assessment
-<!-- Replace the (...) with your score -->
-
-| Category          | Score    |
-| ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
-
-### Reflection
-<!-- Edit the following section with your reflection -->
-
 #### What went well?
    - Being able to find some data sources that could be used to display the data I needed without much cleaning
 #### What did not go well?
